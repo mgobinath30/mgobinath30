@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gobinath Mahalingam
 
-🚀 **Front-End Developer | 6.5+ Years of Experience | Passionate about Web Development**
+🚀 **Front-End Developer | 10+ Years of Experience | Passionate about Web Development**
 
 I specialize in creating seamless, high-performance, and visually appealing web applications. My goal is to build interactive and user-friendly experiences that make a difference.
 
